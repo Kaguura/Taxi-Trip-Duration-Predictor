@@ -1,2 +1,11 @@
 # Taxi-Trip-Duration-Predictor
-The objective of the project is to predict the time required for taxi-cab trips from a point A to point B. It will not only enable better time management amongst customers but also augment earning of taxi-cab drivers by providing better trip acceptance metrics. Academically, the project will provide better insights into data mining techniques especially in the domain of regression. 
+The objective of the project is to predict the time required for taxi-cab trips from a point A to point B. Academically, the project will provide better insights into data mining techniques especially in the domain of regression; aiming to develop an effective, efficient trip time prediction models to dealing with a dataset with the following properties:
+
+●	Different Location
+●	Different Vendors
+●	Different Passenger Count
+●	Day Specific Prediction
+●	Trip Direction-based prediction
+
+
+
