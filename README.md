@@ -14,6 +14,9 @@ Experimented with the following techniques and compared their results:
 ●	Gradient Boosting
 ●	Neural Network
 
+### Tech Stack
+![TechStack](logo255.png)
+
 ### Team
 ●	Pritam Gholap
 ●	Asel Salmanbeya
