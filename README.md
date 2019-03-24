@@ -8,7 +8,8 @@ The objective of the project is to predict the time required for taxi-cab trips 
 ●	Trip Direction
 
 ### Algorithms Considered
-Experimented with the following techniques and compared their results.
+Experimented with the following techniques and compared their results:
+
 ●	Linear Regression
 ●	Gradient Boosting
 ●	Neural Network
